@@ -60,13 +60,3 @@ Proje, **Modülerlik** ve **Kapsülleme** ilkelerine uygun olarak 4 ana sınıfa
     * Diğer tüm sınıfları koordine eder (Orchestration).
 
 ---
-
-## 💻 Kurulum ve Çalıştırma
-
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-### 1. Projeyi Klonlayın
-Terminali açın ve projeyi bilgisayarınıza indirin:
-```bash
-git clone [https://github.com/Endesa24/Ders_Notu_Analizator/blob/main/Main.py](https://github.com/Endesa24/Ders_Notu_Analizator/blob/main/Main.py)
-cd Ders_Notu_Analizator
