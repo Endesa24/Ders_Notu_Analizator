@@ -1,0 +1,5 @@
+PyPDF2
+nltk
+matplotlib
+wordcloud
+wikipedia
