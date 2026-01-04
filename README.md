@@ -66,4 +66,4 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ### 1. Projeyi Klonlayın
 Terminali açın ve projeyi bilgisayarınıza indirin:
  ``` bash
-git clone 
+git clone https://github.com/Endesa24/Ders_Notu_Analizator.git
