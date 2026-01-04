@@ -68,5 +68,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ### 1. Projeyi Klonlayın
 Terminali açın ve projeyi bilgisayarınıza indirin:
 ```bash
-git clone [https://github.com/Endesa24/akilli-ders-asistani.git](https://github.com/Endesa24/akilli-ders-asistani.git)
-cd akilli-ders-asistani
+git clone [https://github.com/Endesa24/Ders_Notu_Analizator/blob/main/Main.py](https://github.com/Endesa24/Ders_Notu_Analizator/blob/main/Main.py)
+cd Ders_Notu_Analizator
