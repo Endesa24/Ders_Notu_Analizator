@@ -1,7 +1,6 @@
 # 📄 Ders Notu Analizatörü
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
@@ -60,3 +59,11 @@ Proje, **Modülerlik** ve **Kapsülleme** ilkelerine uygun olarak 4 ana sınıfa
     * Diğer tüm sınıfları koordine eder (Orchestration).
 
 ---
+## 💻 Kurulum ve Çalıştırma
+
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+
+### 1. Projeyi Klonlayın
+Terminali açın ve projeyi bilgisayarınıza indirin:
+ ``` bash
+git clone 
