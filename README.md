@@ -1,0 +1,1 @@
+# Ders_Notu_Analizator
