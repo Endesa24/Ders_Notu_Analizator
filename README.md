@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 **Ders Notu Analizatörü**, uzun ve karmaşık PDF ders notlarını, akademik makaleleri veya kitapları saniyeler içinde analiz eden, özetleyen ve görselleştiren Python tabanlı bir masaüstü uygulamasıdır.
 
